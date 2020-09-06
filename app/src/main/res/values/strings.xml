@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kursova</string>
+    <string name="search_hint">From</string>
+    <string name="search_hint2">To</string>
+</resources>
